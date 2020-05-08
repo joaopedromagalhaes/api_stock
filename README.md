@@ -1,8 +1,6 @@
 # api_stock
 
-## B3 / BOVESPA 
-## FOREX
-## BITCOIN
+## B3 / BOVESPA
 
 ###### API Cotação de Ativos
 
@@ -11,7 +9,6 @@
 http://cotacoes.economia.uol.com.br/ws/asset/stock/list?size=10000
 
 -> Histórico do ativo
-- Coloque o ID do ativo 
 http://cotacoes.economia.uol.com.br/ws/asset/{**id_ativo**}/intraday?size=1
 
 
