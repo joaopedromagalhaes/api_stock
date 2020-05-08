@@ -18,3 +18,6 @@ https://api.infomoney.com.br/ativos/ticker?type=json&_=300
 
 3. Trading Economics<br />
 https://markets.tradingeconomics.com/chart?s=spx:ind&interval=1d&n=1&AUTH=KUz0W5RAQyuucgGa8cTWIsSngg8SIjrTXvI2WfXv7Ks%3D
+
+<br />
+https://www.worldtradingdata.com/
